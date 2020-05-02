@@ -1,0 +1,4 @@
+hpfeeds
+twisted
+msgpack
+pyzmq
