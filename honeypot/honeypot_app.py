@@ -72,6 +72,9 @@ async def async_process(message):
                 []
                 ]
 
+        if command == "_send_pub":
+            response = None
+
     print("Sending response")
 
     return response
